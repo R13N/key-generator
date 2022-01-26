@@ -7,3 +7,5 @@ Onde o usuário pode selecionar com o range, quantos caracteres quer.</br>
 Clicando em gerar senha um novo campo se abre mostrando qual foi gerada, </br>
 este campo pode ser clicado copiando a senha automaticamente para a área de transferência.
 </p>
+
+<div align="center"> ![tela1](https://user-images.githubusercontent.com/54780871/151239681-894ef182-2e2e-4c60-ae69-89ea65650a57.png) </div>
